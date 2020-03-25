@@ -24,7 +24,7 @@
 #pragma config WDTE = OFF /* WDT operating mode->WDT Disabled */
 #pragma config LVP = ON   /* Low-voltage programming enabled, RE3 pin is MCLR */
 
-#define _XTAL_FREQ                  64000000UL
+#define _XTAL_FREQ                      64000000UL
 #include <pic18.h>
 #include <xc.h>
 #include <stdint.h>
