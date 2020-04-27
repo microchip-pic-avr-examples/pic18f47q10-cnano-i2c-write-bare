@@ -1,7 +1,7 @@
 <div id="readme" class="Box-body readme blob js-code-block-container">
  <article class="markdown-body entry-content p-3 p-md-6" itemprop="text"><p><a href="https://www.microchip.com" rel="nofollow"><img src="images/MicrochipLogo.png" alt="MCHP" style="max-width:100%;"></a></p>
 
-# PIC18F47Q10 I2C Master Read/Write Data Using Interrupts
+# PIC18F47Q10 I2C Master Write Data
 
 ## Objective
 This repository contains an example of bare-metal source code for I2C as described in [*TBxxxx - Getting Started with I2C Using MSSP on PIC18*](https://www.microchip.com/) document from Microchip.
