@@ -5,9 +5,9 @@
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.pic18f47q10-cnano-i2c-write-bare",
         "version": "1.0.3",
-        "displayName": "PIC18F47Q10 I2C Master Write Data",
+        "displayName": "I2C Master Write Data",
         "projectName": "pic18f47q10-cnano-i2c-write-bare",
-        "shortDescription": "This project is an illustration for a basic use case based around MSSP1.",
+        "shortDescription": "This project is an illustration for a basic use case based around MSSP implementing a basic I2C communication.",
         "ide": {
             "name": "MPLAB X",
             "semverRange": ">=5.30"
@@ -49,7 +49,6 @@
         ],
         "keywords": [
             "Getting Started",
-            "I2C",
             "Serial Communication",
             "Bare Metal"
         ],
